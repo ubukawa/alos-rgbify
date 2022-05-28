@@ -1,1 +1,6 @@
 src/*.zip
+01_unzip
+02_extract
+merge
+input.tif
+out.mbtiles
