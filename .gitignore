@@ -4,3 +4,4 @@ src/*.zip
 merge
 input.tif
 out.mbtiles
+docs/*.zip
